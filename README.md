@@ -50,7 +50,7 @@ I engineer **production-ready Machine Learning systems**, **intelligent automati
 - Modern kinetic typography and corporate identity animations tailored for pitch decks and tech products.
 - `Tools:` Adobe After Effects, Premiere Pro, Illustrator, Foley Sound Design.
 
-#### 4. 📈 [AI Economist: Macroeconomic Intelligence Platform](https://github.com/Mahedi8x)
+#### 4. 📈 [AI Economist: Macroeconomic Intelligence Platform](https://github.com/Mahedi8x/ai_economic)
 *Research-grade empirical macroeconomic time-series panel & forecasting.*
 - Compiled and audited an authentic, continuous **202-month macroeconomic dataset (2010–2026)** with zero synthetic interpolation.
 - Formulated predictive models for inflation shocks, exchange rate volatility, and foreign reserve movements using official Bangladesh Bank & BBS datasets.
