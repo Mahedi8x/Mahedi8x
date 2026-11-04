@@ -33,7 +33,7 @@ I engineer **production-ready Machine Learning systems**, **intelligent automati
 
 ### 🌟 Featured Engineering & Creative Projects
 
-#### 1. 📱 [Adaptive Mobile UI Framework (AUI)](https://github.com/Mahedi8x)
+#### 1. 📱 [Adaptive Mobile UI Framework (AUI)](https://github.com/Mahedi8x/adaptive-ui-ml)
 *Context-aware Adaptive User Interface sizing powered by Machine Learning.*
 - Built an intelligent pipeline that dynamically personalizes UI button sizes based on motor accuracy and movement context (walking vs sitting).
 - Benchmarked 5 model architectures; achieved **95.24% test accuracy** using a tuned **XGBoost Classifier**.
